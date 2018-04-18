@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807870235489",
+    "firebase_url": "https://medreminder-ce2fd.firebaseio.com",
+    "project_id": "medreminder-ce2fd",
+    "storage_bucket": "medreminder-ce2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807870235489:android:33b191bfa3793e35",
+        "android_client_info": {
+          "package_name": "com.example.smart.medreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807870235489-3i1121ml5upktlidlbbie0pjhl3eruqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart.medreminder",
+            "certificate_hash": "f7d98742f87d38bee5cca2ad64e5b4df66aea139"
+          }
+        },
+        {
+          "client_id": "807870235489-om3puo2u42rvmdljn79n6nsb48fqvkam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWdzrueHdmz2MMAsc-x_4VoEpEIVfvZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807870235489-om3puo2u42rvmdljn79n6nsb48fqvkam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

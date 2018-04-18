@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">MedReminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="forgot_password_msg">Enter your phone number and we will send you instructions
+    on how to reset your password</string>
+
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_forgot_password">FORGOT PASSWORD? CLICK HERE</string>
+    <string name="btn_link_to_register">Not a member? Click to register</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_email_empty">Enter your Email Address</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="reg_success_message">Registration Successful</string>
+    <string name="login_success_message">Login Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password does not match</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+
+    <!--Activity login items-->
+    <string name="btn_ok">OK</string>
+    <string name="login_btn_login">Login</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh_token">Get Fresh Token</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+
+    <string name="title_text">Google Sign-In\nQuickstart</string>
+    <string name="drugName">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="lastname">Lastname</string>
+    <string name="title_activity_main2">Med-Manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_label">Remind Me</string>
+    <string name="sett_reminder_desc">We will remind you to take your daily medication</string>
+    <string name="sett_reminder_time_label">Set Reminder Start Date</string>
+    <string name="sett_reminder_endtime_label">Set End Date</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+    <string name="action_logout">Logout</string>
+
+    <string-array name="interval">
+        <item>Once daily</item>
+        <item>Twice daily</item>
+        <item>Thrice daily</item>
+    </string-array>
+
+    <string-array name="unit">
+        <item>Ampoule(s)</item>
+        <item>Capsule(s)</item>
+        <item>Drop(s)</item>
+        <item>Gram(s)</item>
+        <item>Injection(s)</item>
+        <item>Milligram(s)</item>
+        <item>Piece(s)</item>
+        <item>Pill(s)</item>
+        <item>Puff(s)</item>
+        <item>Suppository(s)</item>
+        <item>Unit(s)</item>
+    </string-array>
+
+</resources>
